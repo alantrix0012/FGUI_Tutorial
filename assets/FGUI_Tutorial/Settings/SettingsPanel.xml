@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1080,1920">
   <displayList>
-    <image id="n0_nipx" name="n0" src="nipxe" fileName="Settings/freepik__expand__49138.png" xy="-356,0" size="1792,1920" aspect="true">
+    <image id="n0_nipx" name="n0" src="nipxe" fileName="Settings/Images/freepik__expand__49138.png" xy="-356,0" size="1792,1920" aspect="true">
       <relation target="" sidePair="center-center,middle-middle"/>
     </image>
-    <image id="n4_nipx" name="n4" src="nipxs" fileName="Settings/Settings Panel img.png" xy="45,236" aspect="true">
-      <relation target="" sidePair="center-center,middle-middle"/>
-    </image>
-    <component id="n2_nipx" name="BackButton" src="nipxh" fileName="Settings/Back Button.xml" xy="356,1368" aspect="true">
-      <relation target="" sidePair="center-center,middle-middle"/>
-    </component>
-    <component id="n3_nipx" name="VolSlider" src="nipxl" fileName="Settings/Slider.xml" xy="246,927" size="588,66">
-      <relation target="" sidePair="center-center,middle-middle"/>
-      <Slider value="50" max="100"/>
-    </component>
-    <image id="n5_nipx" name="n5" src="nipxt" fileName="Settings/image 5.png" xy="324,500" size="431,100" aspect="true"/>
+    <component id="n4_nipx" name="SettingsPopup" src="nipx15" fileName="Settings/SettingsPopup.xml" xy="45,236" pivot="0.5,0.5"/>
   </displayList>
+  <transition name="Show">
+    <item time="0" type="Scale" target="n4_nipx" tween="true" startValue="0,0" endValue="1,1" duration="12"/>
+  </transition>
+  <transition name="Hide">
+    <item time="0" type="Scale" target="n4_nipx" tween="true" startValue="1,1" endValue="0,0" duration="12"/>
+    <item time="12" type="Scale" target="n4_nipx" value="0,0"/>
+  </transition>
 </component>

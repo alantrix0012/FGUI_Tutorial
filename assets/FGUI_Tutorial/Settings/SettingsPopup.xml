@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="990,1447">
+  <displayList>
+    <image id="n4_nipx" name="n4" src="nipxs" fileName="Settings/Images/Settings Panel img.png" xy="0,0" pivot="0.5,0.5" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n2_nipx" name="BackButton" src="nipxh" fileName="Settings/Back Button.xml" xy="311,1132" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n3_nipx" name="VolSlider" src="nipxl" fileName="Settings/Slider.xml" xy="201,691" pivot="0.5,0.5" size="588,66">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Slider value="50" max="100"/>
+    </component>
+    <image id="n5_nipx" name="n5" src="nipxt" fileName="Settings/Images/image 5.png" xy="279,264" pivot="0.5,0.5" size="431,100" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+  </displayList>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="930,1267">
+  <displayList>
+    <image id="n1_nipx" name="Leaderboard Panel" src="nipxw" fileName="Leaderboard/Images/Leaderboard Panel (1).png" xy="0,0">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <list id="n3_nipx" name="LeaderboardList" xy="151,216" size="625,786" overflow="scroll" lineGap="5" defaultItem="ui://v5fk3anpnipx10" align="center">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </list>
+    <component id="n8_nipx" name="BackButton" src="nipx14" fileName="Leaderboard/Back Button.xml" xy="281,1039">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>
