@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="v5fk3anp">
+  <resources>
+    <component id="eq631" name="MainMenuPanel.xml" path="/Main Menu/" exported="true"/>
+    <component id="nipx4" name="Exit Button.xml" path="/Main Menu/"/>
+    <image id="nipx9" name="freepik__adjust__49136.png" path="/Main Menu/"/>
+    <component id="nipxa" name="Play Button.xml" path="/Main Menu/"/>
+    <image id="nipxb" name="Group 35.png" path="/Main Menu/"/>
+    <image id="nipxc" name="freepik__expand__49138.png" path="/Main Menu/"/>
+    <component id="nipxd" name="SettingsPanel.xml" path="/Settings/" exported="true"/>
+    <image id="nipxe" name="freepik__expand__49138.png" path="/Settings/"/>
+    <component id="nipxh" name="Back Button.xml" path="/Settings/"/>
+    <image id="nipxj" name="Slider Knob.png" path="/Settings/"/>
+    <component id="nipxk" name="Slider_grip.xml" path="/Settings/"/>
+    <component id="nipxl" name="Slider.xml" path="/Settings/"/>
+    <image id="nipxm" name="Slider BG.png" path="/Settings/" scale="9grid" scale9grid="114,17,228,34"/>
+    <image id="nipxn" name="Settings Icon.png" path="/Main Menu/"/>
+    <image id="nipxo" name="Leaderboard Icon.png" path="/Main Menu/"/>
+    <component id="nipxp" name="Settings Button.xml" path="/Main Menu/"/>
+    <component id="nipxq" name="Leaderboard Button.xml" path="/Main Menu/"/>
+    <image id="nipxr" name="Back Icon.png" path="/Settings/"/>
+    <image id="nipxs" name="Settings Panel img.png" path="/Settings/"/>
+    <image id="nipxt" name="image 5.png" path="/Settings/"/>
+    <component id="nipxu" name="LeaderboardPanel.xml" path="/Leaderboard/" exported="true"/>
+    <image id="nipxv" name="freepik__expand__49138.png" path="/Leaderboard/Images/"/>
+    <image id="nipxw" name="Leaderboard Panel (1).png" path="/Leaderboard/Images/"/>
+    <image id="nipxz" name="freepik__digital-illustration-three-purple-horizontal-bars-__81098 1.png" path="/Leaderboard/Images/" scale9grid="162,89,1112,27"/>
+    <component id="nipx10" name="LeaderboardItem.xml" path="/Leaderboard/" exported="true"/>
+    <image id="nipx11" name="Score Header.png" path="/Leaderboard/Images/"/>
+    <image id="nipx12" name="Player Header.png" path="/Leaderboard/Images/"/>
+    <image id="nipx13" name="Rank Header.png" path="/Leaderboard/Images/"/>
+  </resources>
+  <publish name="FGUI"/>
+</packageDescription>

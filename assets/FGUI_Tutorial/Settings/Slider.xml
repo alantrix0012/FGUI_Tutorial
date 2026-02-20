@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="650,75" extention="Slider">
+  <displayList>
+    <graph id="n4_nipx" name="BG Fill" xy="19,14" size="613,44" type="rect" lineSize="0" lineColor="#ff009900" fillColor="#ff330099">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n1_nipx" name="bar" xy="21,15" size="604,44" type="rect" lineSize="0" lineColor="#ff009900" fillColor="#ff0d80e0">
+      <relation target="" sidePair="height-height"/>
+    </graph>
+    <image id="n3_nipx" name="n3" src="nipxm" fileName="Settings/Slider BG.png" xy="0,0" size="650,75">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n2_nipx" name="grip" src="nipxk" fileName="Settings/Slider_grip.xml" xy="560,-31" size="130,130" aspect="true">
+      <relation target="n1_nipx" sidePair="right-right"/>
+      <relation target="" sidePair="height-height"/>
+    </component>
+  </displayList>
+  <Slider/>
+</component>

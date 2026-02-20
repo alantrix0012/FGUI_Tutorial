@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="341,460" pivot="0.5,0.5" opaque="false" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <loader id="n1_nipx" name="icon" xy="1,2" size="341,460" align="center" vAlign="middle">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <image id="n2_nipx" name="n2" src="nipxb" fileName="Main Menu/Group 35.png" xy="-1,0" size="341,460" aspect="true"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.9"/>
+</component>

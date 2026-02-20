@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <image id="n6_nipx" name="n6" src="nipxc" fileName="Main Menu/freepik__expand__49138.png" xy="-356,0" size="1792,1920" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n2_nipx" name="ExitButton" src="nipx4" fileName="Main Menu/Exit Button.xml" xy="415,1236" pivot="0.5,0.5" size="250,70">
+      <relation target="" sidePair="height-height,center-center"/>
+    </component>
+    <component id="n5_nipx" name="PlayButton" src="nipxa" fileName="Main Menu/Play Button.xml" xy="369,730" aspect="true">
+      <relation target="" sidePair="center-center"/>
+    </component>
+    <component id="n7_nipx" name="SettingsButton" src="nipxp" fileName="Main Menu/Settings Button.xml" xy="169,938" size="137,118" aspect="true">
+      <relation target="" sidePair="center-center"/>
+    </component>
+    <component id="n8_nipx" name="LeaderboardButton" src="nipxq" fileName="Main Menu/Leaderboard Button.xml" xy="769,935" size="140,118" aspect="true">
+      <relation target="" sidePair="center-center"/>
+    </component>
+  </displayList>
+</component>

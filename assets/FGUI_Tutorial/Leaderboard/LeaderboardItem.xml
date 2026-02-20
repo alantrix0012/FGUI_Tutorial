@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="620,93">
+  <displayList>
+    <image id="n2_nipx" name="BG" src="nipxz" fileName="Leaderboard/Images/freepik__digital-illustration-three-purple-horizontal-bars-__81098 1.png" xy="0,0" size="620,93" aspect="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n3_nipx" name="Rank" xy="38,15" size="97,66" fontSize="50" color="#ffffff" autoSize="none" text="1">
+      <relation target="" sidePair="width-width,height-height,left-center,right-center"/>
+    </text>
+    <text id="n4_nipx" name="Name" xy="149,15" size="291,66" fontSize="50" color="#ffffff" vAlign="middle" autoSize="none" text="Seth&#xA;">
+      <relation target="" sidePair="width-width,height-height,left-center,right-center"/>
+    </text>
+    <text id="n5_nipx" name="Score" xy="455,15" size="125,66" fontSize="50" color="#ffffff" autoSize="none" text="30">
+      <relation target="" sidePair="width-width,height-height,left-center,right-center"/>
+    </text>
+  </displayList>
+</component>

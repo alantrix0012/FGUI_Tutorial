@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <image id="n0_nipx" name="BG" src="nipxv" fileName="Leaderboard/Images/freepik__expand__49138.png" xy="-356,0" size="1792,1920" aspect="true"/>
+    <image id="n1_nipx" name="Leaderboard Panel" src="nipxw" fileName="Leaderboard/Images/Leaderboard Panel (1).png" xy="75,326">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <list id="n3_nipx" name="LeaderboardList" xy="227,542" size="625,905" layout="flow_vt" overflow="scroll" lineGap="5" lineItemCount="20" defaultItem="ui://v5fk3anpnipx10" align="center">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </list>
+  </displayList>
+</component>
