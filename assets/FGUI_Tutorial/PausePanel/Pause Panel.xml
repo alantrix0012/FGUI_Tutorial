@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <component id="n0_nipx" name="BackButton" src="nipx1n" fileName="PausePanel/BackButton.xml" xy="465,885"/>
+  </displayList>
+</component>

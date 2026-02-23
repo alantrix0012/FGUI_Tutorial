@@ -32,7 +32,21 @@
     <component id="nipx14" name="Back Button.xml" path="/Leaderboard/"/>
     <component id="nipx15" name="SettingsPopup.xml" path="/Settings/"/>
     <component id="nipx16" name="LeaderboardPopup.xml" path="/Leaderboard/"/>
-    <component id="nipx17" name="GameHUDs.xml" path="/HUDS/"/>
+    <component id="nipx17" name="GameHUDPanel.xml" path="/HUDS/" exported="true"/>
+    <component id="nipx19" name="Pause Button.xml" path="/HUDS/"/>
+    <image id="nipx1b" name="freepik__adjust__80035.png" path="/HUDS/Image/"/>
+    <component id="nipx1c" name="GameOverButton.xml" path="/HUDS/"/>
+    <component id="nipx1d" name="Game Over Panel.xml" path="/Game Over/" exported="true"/>
+    <image id="nipx1e" name="Game Over BG img.png" path="/Game Over/Images/"/>
+    <image id="nipx1f" name="Retry Button img.png" path="/Game Over/Images/"/>
+    <image id="nipx1g" name="Home Button img.png" path="/Game Over/Images/"/>
+    <image id="nipx1h" name="ScoreBar img.png" path="/Game Over/Images/"/>
+    <image id="nipx1i" name="GameOverText.png" path="/Game Over/Images/"/>
+    <component id="nipx1l" name="Scorebox.xml" path="/Game Over/"/>
+    <component id="nipx1m" name="Pause Panel.xml" path="/PausePanel/" exported="true"/>
+    <component id="nipx1n" name="BackButton.xml" path="/PausePanel/"/>
+    <component id="nipx1o" name="Home Button.xml" path="/Game Over/"/>
+    <component id="nipx1p" name="Retry Button.xml" path="/Game Over/"/>
   </resources>
   <publish name="FGUI"/>
 </packageDescription>

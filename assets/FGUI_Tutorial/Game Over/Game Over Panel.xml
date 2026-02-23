@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920" overflow="hidden">
+  <displayList>
+    <image id="n0_nipx" name="n0" src="nipx1e" fileName="Game Over/Images/Game Over BG img.png" xy="-337,0" size="1755,1920" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n1_nipx" name="n1" src="nipx1i" fileName="Game Over/Images/GameOverText.png" xy="243,304" size="592,459" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n2_nipx" name="Scorebox" src="nipx1l" fileName="Game Over/Scorebox.xml" xy="234,919"/>
+    <component id="n7_nipx" name="HomeButton" src="nipx1o" fileName="Game Over/Home Button.xml" xy="275,1200">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n8_nipx" name="RetryButton" src="nipx1p" fileName="Game Over/Retry Button.xml" xy="575,1200">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+  </displayList>
+</component>

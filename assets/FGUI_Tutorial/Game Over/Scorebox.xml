@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="611,165">
+  <displayList>
+    <image id="n2_nipx" name="BG" src="nipx1h" fileName="Game Over/Images/ScoreBar img.png" xy="0,0" size="611,165" aspect="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n3_nipx" name="Score" xy="113,39" size="385,85" fontSize="65" color="#ffffff" align="center" vAlign="middle" letterSpacing="5" text="SCORE : 20">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </text>
+  </displayList>
+</component>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <component id="n1_nipx" name="PauseButton" src="nipx19" fileName="HUDS/Pause Button.xml" xy="900,30"/>
+    <component id="n2_nipx" name="GameOverButton" src="nipx1c" fileName="HUDS/GameOverButton.xml" xy="465,1567"/>
+  </displayList>
+</component>
