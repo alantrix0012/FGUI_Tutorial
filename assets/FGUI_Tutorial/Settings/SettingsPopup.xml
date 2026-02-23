@@ -5,13 +5,39 @@
       <relation target="" sidePair="center-center,middle-middle"/>
     </image>
     <component id="n2_nipx" name="BackButton" src="nipxh" fileName="Settings/Back Button.xml" xy="311,1132" aspect="true">
-      <relation target="" sidePair="center-center,middle-middle"/>
+      <relation target="" sidePair="bottom-top"/>
     </component>
-    <component id="n3_nipx" name="VolSlider" src="nipxl" fileName="Settings/Slider.xml" xy="201,691" pivot="0.5,0.5" size="588,66">
+    <component id="n3_nipx" name="MainVolSlider" src="nipxl" fileName="Settings/Slider.xml" xy="300,510" pivot="0.5,0.5">
       <relation target="" sidePair="center-center,middle-middle"/>
       <Slider value="50" max="100"/>
     </component>
     <image id="n5_nipx" name="n5" src="nipxt" fileName="Settings/Images/image 5.png" xy="279,264" pivot="0.5,0.5" size="431,100" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n7_nu9l" name="n7" src="nipx1q" fileName="Settings/Images/Main Text.png" xy="441,395" size="110,70" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n8_nu9l" name="n8" src="nu9l1s" fileName="Settings/Images/Music Icon.png" xy="180,945" size="79,90" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n9_nu9l" name="n9" src="nu9l1r" fileName="Settings/Images/Volume Icon.png" xy="180,500" size="93,75" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n10_nu9l" name="n10" src="nu9l1r" fileName="Settings/Images/Volume Icon.png" xy="180,725" size="93,75" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n11_nu9l" name="SFXVolSlider" src="nipxl" fileName="Settings/Slider.xml" xy="300,735">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Slider value="50" max="100"/>
+    </component>
+    <component id="n12_nu9l" name="MusicVolSlider" src="nipxl" fileName="Settings/Slider.xml" xy="300,955">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Slider value="50" max="100"/>
+    </component>
+    <image id="n13_nu9l" name="n13" src="nu9l1t" fileName="Settings/Images/SFX Text.png" xy="451,625" size="87,50" aspect="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <image id="n14_nu9l" name="n14" src="nu9l1u" fileName="Settings/Images/Music Text.png" xy="426,845" size="137,55" aspect="true">
       <relation target="" sidePair="center-center,middle-middle"/>
     </image>
   </displayList>

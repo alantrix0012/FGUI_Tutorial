@@ -13,7 +13,7 @@
     <image id="nipxj" name="Slider Knob.png" path="/Settings/Images/"/>
     <component id="nipxk" name="Slider_grip.xml" path="/Settings/"/>
     <component id="nipxl" name="Slider.xml" path="/Settings/"/>
-    <image id="nipxm" name="Slider BG.png" path="/Settings/Images/" scale="9grid" scale9grid="114,17,228,34"/>
+    <image id="nipxm" name="Slider BG.png" path="/Settings/Images/" scale="9grid" scale9grid="37,0,387,68"/>
     <image id="nipxn" name="Settings Icon.png" path="/Main Menu/Images/"/>
     <image id="nipxo" name="Leaderboard Icon.png" path="/Main Menu/Images/"/>
     <component id="nipxp" name="Settings Button.xml" path="/Main Menu/"/>
@@ -47,6 +47,11 @@
     <component id="nipx1n" name="BackButton.xml" path="/PausePanel/"/>
     <component id="nipx1o" name="Home Button.xml" path="/Game Over/"/>
     <component id="nipx1p" name="Retry Button.xml" path="/Game Over/"/>
+    <image id="nipx1q" name="Main Text.png" path="/Settings/Images/"/>
+    <image id="nu9l1r" name="Volume Icon.png" path="/Settings/Images/"/>
+    <image id="nu9l1s" name="Music Icon.png" path="/Settings/Images/"/>
+    <image id="nu9l1t" name="SFX Text.png" path="/Settings/Images/"/>
+    <image id="nu9l1u" name="Music Text.png" path="/Settings/Images/"/>
   </resources>
   <publish name="FGUI"/>
 </packageDescription>
