@@ -44,7 +44,6 @@
     <image id="nipx1i" name="GameOverText.png" path="/Game Over/Images/"/>
     <component id="nipx1l" name="Scorebox.xml" path="/Game Over/"/>
     <component id="nipx1m" name="Pause Panel.xml" path="/PausePanel/" exported="true"/>
-    <component id="nipx1n" name="BackButton.xml" path="/PausePanel/"/>
     <component id="nipx1o" name="Home Button.xml" path="/Game Over/"/>
     <component id="nipx1p" name="Retry Button.xml" path="/Game Over/"/>
     <image id="nipx1q" name="Main Text.png" path="/Settings/Images/"/>
@@ -52,6 +51,17 @@
     <image id="nu9l1s" name="Music Icon.png" path="/Settings/Images/"/>
     <image id="nu9l1t" name="SFX Text.png" path="/Settings/Images/"/>
     <image id="nu9l1u" name="Music Text.png" path="/Settings/Images/"/>
+    <image id="nu9l1v" name="Pause Panel BG.png" path="/PausePanel/Images/" scale="9grid" scale9grid="168,338,544,19"/>
+    <image id="nu9l1w" name="PAUSED Text.png" path="/PausePanel/Images/"/>
+    <image id="nu9l1x" name="Retry Icon.png" path="/PausePanel/Images/"/>
+    <image id="nu9l1y" name="Home Icon.png" path="/PausePanel/Images/"/>
+    <image id="nu9l1z" name="Play Icon.png" path="/PausePanel/Images/"/>
+    <component id="nu9l20" name="Play Button.xml" path="/PausePanel/"/>
+    <component id="nu9l21" name="Home Button.xml" path="/PausePanel/"/>
+    <component id="nu9l22" name="Retry Button.xml" path="/PausePanel/"/>
+    <component id="desa23" name="PausePopup.xml" path="/PausePanel/"/>
+    <component id="desa24" name="Score Increase Button.xml" path="/HUDS/"/>
+    <component id="desa25" name="Score Decrease Button.xml" path="/HUDS/"/>
   </resources>
   <publish name="FGUI"/>
 </packageDescription>

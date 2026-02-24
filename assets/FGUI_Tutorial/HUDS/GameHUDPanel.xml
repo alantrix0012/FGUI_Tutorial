@@ -7,5 +7,14 @@
     <component id="n2_nipx" name="GameOverButton" src="nipx1c" fileName="HUDS/GameOverButton.xml" xy="465,1567">
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>
+    <component id="n3_desa" name="ScorePlusButton" src="desa24" fileName="HUDS/Score Increase Button.xml" xy="719,752">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n4_desa" name="ScoreMinusButton" src="desa25" fileName="HUDS/Score Decrease Button.xml" xy="183,746">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <text id="n5_desa" name="ScoreText" xy="434,72" size="212,123" fontSize="95" align="center" autoSize="none" bold="true" text="0">
+      <relation target="" sidePair="left-center,top-top"/>
+    </text>
   </displayList>
 </component>
