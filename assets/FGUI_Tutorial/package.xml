@@ -60,8 +60,11 @@
     <component id="nu9l21" name="Home Button.xml" path="/PausePanel/"/>
     <component id="nu9l22" name="Retry Button.xml" path="/PausePanel/"/>
     <component id="desa23" name="PausePopup.xml" path="/PausePanel/"/>
-    <component id="desa24" name="Score Increase Button.xml" path="/HUDS/"/>
-    <component id="desa25" name="Score Decrease Button.xml" path="/HUDS/"/>
+    <image id="desa27" name="BlueX.png" path="/HUDS/Image/" exported="true"/>
+    <image id="desa28" name="RedX.png" path="/HUDS/Image/" exported="true"/>
+    <component id="desa29" name="MissedItem.xml" path="/HUDS/"/>
+    <component id="desa2a" name="InputButton.xml" path="/HUDS/"/>
+    <font id="desa2b" name="Game Font.ttf" path="/HUDS/" exported="true" renderMode="" samplePointSize="16"/>
   </resources>
   <publish name="FGUI"/>
 </packageDescription>

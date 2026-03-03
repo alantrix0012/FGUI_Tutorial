@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1080,1920">
   <displayList>
-    <component id="n1_nipx" name="PauseButton" src="nipx19" fileName="HUDS/Pause Button.xml" xy="900,30">
-      <relation target="" sidePair="left-right,top-top"/>
+    <component id="n1_nipx" name="PauseButton" src="nipx19" fileName="HUDS/Pause Button.xml" xy="975,130" pivot="0.5,0.5" anchor="true">
+      <relation target="" sidePair="right-right,top-top"/>
     </component>
-    <component id="n2_nipx" name="GameOverButton" src="nipx1c" fileName="HUDS/GameOverButton.xml" xy="465,1567">
+    <text id="n5_desa" name="ScoreText" xy="540,130" pivot="0.5,0.5" anchor="true" size="250,120" font="ui://v5fk3anpdesa2b" fontSize="80" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="0">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <component id="n6_desa" name="MissedItems" src="desa29" fileName="HUDS/MissedItem.xml" xy="200,130" pivot="0.5,0.5" anchor="true" size="270,100">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n9_desa" name="InputButton" src="desa2a" fileName="HUDS/InputButton.xml" xy="0,229" size="1080,1691">
+      <relation target="" sidePair="width-width,height-height,center-center,middle-middle"/>
+    </component>
+    <text id="n10_desa" name="CountDownText" xy="540,960" pivot="0.5,0.5" anchor="true" size="250,150" font="ui://v5fk3anpdesa2b" fontSize="90" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" text="3&#xA;">
       <relation target="" sidePair="center-center,middle-middle"/>
-    </component>
-    <component id="n3_desa" name="ScorePlusButton" src="desa24" fileName="HUDS/Score Increase Button.xml" xy="719,752">
-      <relation target="" sidePair="center-center,middle-middle"/>
-    </component>
-    <component id="n4_desa" name="ScoreMinusButton" src="desa25" fileName="HUDS/Score Decrease Button.xml" xy="183,746">
-      <relation target="" sidePair="center-center,middle-middle"/>
-    </component>
-    <text id="n5_desa" name="ScoreText" xy="434,72" size="212,123" fontSize="95" align="center" autoSize="none" bold="true" text="0">
-      <relation target="" sidePair="left-center,top-top"/>
     </text>
   </displayList>
 </component>
