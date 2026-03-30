@@ -64,7 +64,7 @@
     <image id="desa28" name="RedX.png" path="/HUDS/Image/" exported="true"/>
     <component id="desa29" name="MissedItem.xml" path="/HUDS/"/>
     <component id="desa2a" name="InputButton.xml" path="/HUDS/"/>
-    <font id="desa2b" name="Game Font.ttf" path="/HUDS/" exported="true" renderMode="" samplePointSize="16"/>
+    <font id="desa2b" name="GameFont.ttf" path="/HUDS/" exported="true" renderMode="" samplePointSize="16"/>
   </resources>
   <publish name="FGUI"/>
 </packageDescription>

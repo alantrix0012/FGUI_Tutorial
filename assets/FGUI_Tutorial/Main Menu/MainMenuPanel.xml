@@ -8,10 +8,10 @@
       <relation target="" sidePair="center-center,middle-middle"/>
     </component>
     <component id="n7_nipx" name="SettingsButton" src="nipxp" fileName="Main Menu/Settings Button.xml" xy="169,938" size="137,118" aspect="true">
-      <relation target="" sidePair="center-center"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
     </component>
     <component id="n8_nipx" name="LeaderboardButton" src="nipxq" fileName="Main Menu/Leaderboard Button.xml" xy="769,935" size="140,118" aspect="true">
-      <relation target="" sidePair="center-center"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
     </component>
   </displayList>
 </component>
