@@ -21,11 +21,11 @@
     <image id="nipxr" name="Back Icon.png" path="/Settings/Images/"/>
     <image id="nipxs" name="Settings Panel img.png" path="/Settings/Images/"/>
     <image id="nipxt" name="image 5.png" path="/Settings/Images/"/>
-    <component id="nipxu" name="LeaderboardPanel.xml" path="/Leaderboard/" exported="true"/>
+    <component id="nipxu" name="LeaderboardPanel.xml" path="/Leaderboard/"/>
     <image id="nipxv" name="freepik__expand__49138.png" path="/Leaderboard/Images/"/>
     <image id="nipxw" name="Leaderboard Panel (1).png" path="/Leaderboard/Images/"/>
     <image id="nipxz" name="freepik__digital-illustration-three-purple-horizontal-bars-__81098 1.png" path="/Leaderboard/Images/" scale9grid="162,89,1112,27"/>
-    <component id="nipx10" name="LeaderboardItem.xml" path="/Leaderboard/" exported="true"/>
+    <component id="nipx10" name="LeaderboardItem.xml" path="/Leaderboard/"/>
     <image id="nipx11" name="Score Header.png" path="/Leaderboard/Images/"/>
     <image id="nipx12" name="Player Header.png" path="/Leaderboard/Images/"/>
     <image id="nipx13" name="Rank Header.png" path="/Leaderboard/Images/"/>
